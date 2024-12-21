@@ -24,9 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   things that I don't want to forget, things I want to shre.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  lackovic
-google_scholar_username: QHgyV5UAAAAJ
-linkedin_username: marco-lackovic-51a4952
 
 # Build settings
 remote_theme: jekyll/minima
@@ -36,6 +33,11 @@ plugins:
 # Theme settings
 minima:
   skin: solarized
+  social_links:
+    - { platform: github,  user_url: "https://github.com/lackovic" }
+    - { platform: google_scholar, user_url: "https://scholar.google.it/citations?user=QHgyV5UAAAAJ" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/334569/marco-lackovic" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/marco-lackovic-51a4952/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
