@@ -21,7 +21,7 @@
 title: Marco Lackovic Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog where I talk about things that interest me,
-  things that I don't want to forget, things I want to shre.
+  things that I don't want to forget, things I want to share.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
