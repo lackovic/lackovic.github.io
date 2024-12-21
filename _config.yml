@@ -29,7 +29,7 @@ google_scholar_username: QHgyV5UAAAAJ
 linkedin_username: marco-lackovic-51a4952
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
