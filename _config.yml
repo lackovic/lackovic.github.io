@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog where I talk about things that interest me,
   things that I don't want to forget, things I want to share.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://lackovic.github.io/
+url: https://lackovic.github.io
 
 # Build settings
 remote_theme: jekyll/minima
