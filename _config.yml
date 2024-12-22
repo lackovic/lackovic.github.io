@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog where I talk about things that interest me,
   things that I don't want to forget, things I want to share.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://lackovic.github.io/
 
 # Build settings
 remote_theme: jekyll/minima
@@ -38,6 +38,10 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.it/citations?user=QHgyV5UAAAAJ" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/334569/marco-lackovic" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/marco-lackovic-51a4952/" }
+
+# Comments
+disqus:
+    shortname: marcolackovic
 
 # Exclude from processing.
 # The following items will not be processed, by default.
